@@ -10,7 +10,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://d3ward.github.io/](https://d3ward.github.io/) -->
 
 
-- 📫 How to reach me **shubhamchandroliya20142014@gmail.com**
+- 📫 How to reach me **shubhamchandroliya2014@gmail.com**
 
 <!-- <h3 align="left">Support:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/dOWS9cU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3ward" /></a></p><br><br> -->
